@@ -1,7 +1,7 @@
 Backend Web Developer | .NET Core Specialist
 
 👨‍💻 About Me
-Experienced backend developer specializing in .NET Core technologies with a strong focus on building robust web applications and APIs. Proficient in creating scalable solutions using modern development practices.
+Experienced backend developer specializing in .NET Core technologies with a strong focus on building robust web applications and APIs. I craft software solutions that smoothly adapt and expand as business needs change, using cutting-edge development techniques.
 
 🚀 Technical Skills
 
