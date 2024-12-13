@@ -16,12 +16,8 @@ Databases
 - Microsoft SQL Server (MSSQL)
 - MySQL
 
-Development Tools
-- Visual Studio / Visual Studio Code
-- Git & GitHub
-- Docker
-- Postman
 💻 Key Technologies
+
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
