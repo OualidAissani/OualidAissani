@@ -1,7 +1,7 @@
 Backend Web Developer | .NET Core Specialist
 
 👨‍💻 About Me
-Experienced backend developer specializing in .NET Core technologies with a strong focus on building robust web applications and APIs. I craft software solutions that smoothly adapt and expand as business needs change, using cutting-edge development techniques.
+I am Oualid, a computer science student with experience in .NET Core development. I focus on building web apps and APIs that are easy to use and flexible.
 
 🚀 Technical Skills
 
