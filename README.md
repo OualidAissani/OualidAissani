@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Blazor and SignalR</p>
+<p align="left">📚 I'm currently learning Blazor</p>
 
 ###
 
