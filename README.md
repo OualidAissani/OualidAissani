@@ -4,9 +4,6 @@
 
 <p align="left">My name is Oualid and I'm a computer science student experienced with .NET Core.</p>
 
-###
-
-<h2 align="left">About me</h2>
 
 ###
 
