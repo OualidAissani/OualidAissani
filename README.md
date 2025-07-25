@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Blazor</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
