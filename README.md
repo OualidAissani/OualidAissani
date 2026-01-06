@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Oualid and I'm a computer science student experienced with .NET Core.</p>
+<p align="left">My name is Oualid and I'm a .NET Web Dev</p>
 
 
 ###
